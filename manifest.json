@@ -1,0 +1,9 @@
+{
+  "id": "image-blend-tool",
+  "name": "Image Blend Tool",
+  "version": "0.1.0",
+  "manifestVersion": 1,
+  "author": "Your Name",
+  "icon": "icon.png",
+  "scripts": ["index.js"]
+}
